@@ -1,7 +1,6 @@
 # Machine Learning Introduction
-...
-- [Notebook]()
-- [Dataset]()
+- [Notebook](https://github.com/igorisolomon/hamoye/blob/master/machine_learning/machine_learning.ipynb)
+- [Dataset](https://github.com/igorisolomon/hamoye/blob/master/machine_learning/energydata_complete.csv)
 
 ## Data Description
 - Date, time year-month-day hour:minute:second
