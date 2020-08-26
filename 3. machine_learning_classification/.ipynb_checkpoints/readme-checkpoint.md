@@ -1,7 +1,7 @@
 # Machine Learning Introduction
 
-- [Notebook](https://github.com/igorisolomon/hamoye/blob/master/machine_learning_classification/machine_learning.ipynb)
-- [Dataset](https://github.com/igorisolomon/hamoye/blob/master/machine_learning_classification/Data_for_UCI_named.csv)
+- [Notebook](https://github.com/igorisolomon/hamoye/blob/master/3.%20machine_learning_classification/classification.ipynb)
+- [Dataset](https://github.com/igorisolomon/hamoye/blob/master/3.%20machine_learning_classification/Data_for_UCI_named.csv)
 
 ## Stability of the Grid System 
 
