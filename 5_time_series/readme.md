@@ -2,7 +2,7 @@
 
 Data Set Information  
 
-[Notebook]()
+[Notebook](https://github.com/igorisolomon/hamoye/blob/master/5_time_series/time_series.ipynb)
 
 Data Link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption  
 
